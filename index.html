@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<title>Weather-Crop Impact Dashboard</title>
+	<!-- Tailwind CSS CDN -->
+	<script src="https://cdn.tailwindcss.com"></script>
+	<!-- Chart.js CDN -->
+	<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+
+<body class="bg-white text-black font-sans">
+	<main class="max-w-6xl mx-auto p-6 space-y-6">
+		<!-- Table Section -->
+		<section id="table-section" class="bg-orange-50 rounded-2xl shadow-md p-4">
+			<h2 class="text-xl font-bold text-orange-600 mb-4">Top Region Summary</h2>
+			<div id="table-container"></div>
+		</section>
+
+		<!-- Charts Section -->
+		<section class="grid grid-cols-1 md:grid-cols-2 gap-6">
+			<!-- Bar Graph -->
+			<div class="bg-orange-50 rounded-2xl shadow-md p-4">
+				<h2 class="text-xl font-bold text-orange-600 mb-4">Rainfall by Region</h2>
+				<canvas id="barChart" class="w-full h-64"></canvas>
+			</div>
+			<!-- Line Graph -->
+			<div class="bg-orange-50 rounded-2xl shadow-md p-4">
+				<h2 class="text-xl font-bold text-orange-600 mb-4">Crop Yield Over Time</h2>
+				<canvas id="lineChart" class="w-full h-64"></canvas>
+			</div>
+		</section>
+	</main>
+
+	<!-- Main Script -->
+	<script type="module" src="./main.js"></script>
+</body>
+
+</html>

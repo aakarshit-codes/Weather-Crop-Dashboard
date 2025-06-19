@@ -1,0 +1,527 @@
+[
+  {
+    "region": "Rajasthan",
+    "rainfall_mm": 295.86,
+    "crop_yield_tonnes": 8.89,
+    "month": "August",
+    "crop": "Wheat"
+  },
+  {
+    "region": "Maharashtra",
+    "rainfall_mm": 50.14,
+    "crop_yield_tonnes": 9.05,
+    "month": "April",
+    "crop": "Wheat"
+  },
+  {
+    "region": "Maharashtra",
+    "rainfall_mm": 282.89,
+    "crop_yield_tonnes": 7.73,
+    "month": "March",
+    "crop": "Soybean"
+  },
+  {
+    "region": "Bihar",
+    "rainfall_mm": 238.55,
+    "crop_yield_tonnes": 1.78,
+    "month": "July",
+    "crop": "Maize"
+  },
+  {
+    "region": "Gujarat",
+    "rainfall_mm": 111.43,
+    "crop_yield_tonnes": 4.3,
+    "month": "January",
+    "crop": "Soybean"
+  },
+  {
+    "region": "Haryana",
+    "rainfall_mm": 138.38,
+    "crop_yield_tonnes": 5.09,
+    "month": "March",
+    "crop": "Wheat"
+  },
+  {
+    "region": "Rajasthan",
+    "rainfall_mm": 243.13,
+    "crop_yield_tonnes": 4.93,
+    "month": "December",
+    "crop": "Barley"
+  },
+  {
+    "region": "Punjab",
+    "rainfall_mm": 118.84,
+    "crop_yield_tonnes": 1.6,
+    "month": "January",
+    "crop": "Soybean"
+  },
+  {
+    "region": "Gujarat",
+    "rainfall_mm": 199.06,
+    "crop_yield_tonnes": 2.78,
+    "month": "December",
+    "crop": "Wheat"
+  },
+  {
+    "region": "Madhya Pradesh",
+    "rainfall_mm": 268.72,
+    "crop_yield_tonnes": 8.17,
+    "month": "August",
+    "crop": "Wheat"
+  },
+  {
+    "region": "Gujarat",
+    "rainfall_mm": 271.77,
+    "crop_yield_tonnes": 1.61,
+    "month": "March",
+    "crop": "Maize"
+  },
+  {
+    "region": "Karnataka",
+    "rainfall_mm": 228.4,
+    "crop_yield_tonnes": 9.15,
+    "month": "May",
+    "crop": "Barley"
+  },
+  {
+    "region": "Haryana",
+    "rainfall_mm": 245.91,
+    "crop_yield_tonnes": 9.88,
+    "month": "May",
+    "crop": "Barley"
+  },
+  {
+    "region": "Punjab",
+    "rainfall_mm": 192.57,
+    "crop_yield_tonnes": 4.65,
+    "month": "April",
+    "crop": "Rice"
+  },
+  {
+    "region": "Tamil Nadu",
+    "rainfall_mm": 136.24,
+    "crop_yield_tonnes": 3.37,
+    "month": "October",
+    "crop": "Soybean"
+  },
+  {
+    "region": "Punjab",
+    "rainfall_mm": 265.96,
+    "crop_yield_tonnes": 6.93,
+    "month": "January",
+    "crop": "Wheat"
+  },
+  {
+    "region": "Tamil Nadu",
+    "rainfall_mm": 106.27,
+    "crop_yield_tonnes": 3.6,
+    "month": "November",
+    "crop": "Rice"
+  },
+  {
+    "region": "Uttar Pradesh",
+    "rainfall_mm": 222.64,
+    "crop_yield_tonnes": 7.87,
+    "month": "January",
+    "crop": "Soybean"
+  },
+  {
+    "region": "Karnataka",
+    "rainfall_mm": 110.14,
+    "crop_yield_tonnes": 2.45,
+    "month": "December",
+    "crop": "Soybean"
+  },
+  {
+    "region": "Maharashtra",
+    "rainfall_mm": 288.81,
+    "crop_yield_tonnes": 3.97,
+    "month": "April",
+    "crop": "Maize"
+  },
+  {
+    "region": "Bihar",
+    "rainfall_mm": 57.18,
+    "crop_yield_tonnes": 1.46,
+    "month": "May",
+    "crop": "Rice"
+  },
+  {
+    "region": "Tamil Nadu",
+    "rainfall_mm": 289.33,
+    "crop_yield_tonnes": 8.88,
+    "month": "October",
+    "crop": "Rice"
+  },
+  {
+    "region": "Rajasthan",
+    "rainfall_mm": 97.31,
+    "crop_yield_tonnes": 9.91,
+    "month": "July",
+    "crop": "Wheat"
+  },
+  {
+    "region": "Punjab",
+    "rainfall_mm": 113.72,
+    "crop_yield_tonnes": 7.67,
+    "month": "September",
+    "crop": "Rice"
+  },
+  {
+    "region": "Tamil Nadu",
+    "rainfall_mm": 231.2,
+    "crop_yield_tonnes": 4.24,
+    "month": "April",
+    "crop": "Maize"
+  },
+  {
+    "region": "Maharashtra",
+    "rainfall_mm": 141.39,
+    "crop_yield_tonnes": 7.94,
+    "month": "September",
+    "crop": "Soybean"
+  },
+  {
+    "region": "Maharashtra",
+    "rainfall_mm": 288.75,
+    "crop_yield_tonnes": 7.11,
+    "month": "August",
+    "crop": "Soybean"
+  },
+  {
+    "region": "Madhya Pradesh",
+    "rainfall_mm": 177.12,
+    "crop_yield_tonnes": 5.27,
+    "month": "November",
+    "crop": "Maize"
+  },
+  {
+    "region": "Haryana",
+    "rainfall_mm": 70.75,
+    "crop_yield_tonnes": 9.64,
+    "month": "October",
+    "crop": "Rice"
+  },
+  {
+    "region": "Rajasthan",
+    "rainfall_mm": 58.75,
+    "crop_yield_tonnes": 1.67,
+    "month": "February",
+    "crop": "Maize"
+  },
+  {
+    "region": "Uttar Pradesh",
+    "rainfall_mm": 198.05,
+    "crop_yield_tonnes": 5.25,
+    "month": "January",
+    "crop": "Wheat"
+  },
+  {
+    "region": "Tamil Nadu",
+    "rainfall_mm": 58.41,
+    "crop_yield_tonnes": 2.87,
+    "month": "June",
+    "crop": "Rice"
+  },
+  {
+    "region": "Haryana",
+    "rainfall_mm": 98.95,
+    "crop_yield_tonnes": 7.87,
+    "month": "April",
+    "crop": "Rice"
+  },
+  {
+    "region": "Madhya Pradesh",
+    "rainfall_mm": 148.64,
+    "crop_yield_tonnes": 8.86,
+    "month": "January",
+    "crop": "Wheat"
+  },
+  {
+    "region": "Rajasthan",
+    "rainfall_mm": 162.49,
+    "crop_yield_tonnes": 8.66,
+    "month": "April",
+    "crop": "Maize"
+  },
+  {
+    "region": "Gujarat",
+    "rainfall_mm": 147.48,
+    "crop_yield_tonnes": 9.76,
+    "month": "June",
+    "crop": "Soybean"
+  },
+  {
+    "region": "Uttar Pradesh",
+    "rainfall_mm": 76.54,
+    "crop_yield_tonnes": 4.94,
+    "month": "June",
+    "crop": "Wheat"
+  },
+  {
+    "region": "Tamil Nadu",
+    "rainfall_mm": 229.15,
+    "crop_yield_tonnes": 1.5,
+    "month": "August",
+    "crop": "Wheat"
+  },
+  {
+    "region": "Punjab",
+    "rainfall_mm": 192.36,
+    "crop_yield_tonnes": 4.49,
+    "month": "December",
+    "crop": "Wheat"
+  },
+  {
+    "region": "Karnataka",
+    "rainfall_mm": 286.3,
+    "crop_yield_tonnes": 2.17,
+    "month": "August",
+    "crop": "Soybean"
+  },
+  {
+    "region": "Madhya Pradesh",
+    "rainfall_mm": 249.12,
+    "crop_yield_tonnes": 8.99,
+    "month": "May",
+    "crop": "Wheat"
+  },
+  {
+    "region": "Haryana",
+    "rainfall_mm": 91.64,
+    "crop_yield_tonnes": 4.53,
+    "month": "June",
+    "crop": "Rice"
+  },
+  {
+    "region": "Rajasthan",
+    "rainfall_mm": 50.43,
+    "crop_yield_tonnes": 6.41,
+    "month": "May",
+    "crop": "Barley"
+  },
+  {
+    "region": "Maharashtra",
+    "rainfall_mm": 81.64,
+    "crop_yield_tonnes": 6.47,
+    "month": "November",
+    "crop": "Maize"
+  },
+  {
+    "region": "Uttar Pradesh",
+    "rainfall_mm": 265.59,
+    "crop_yield_tonnes": 2.62,
+    "month": "August",
+    "crop": "Maize"
+  },
+  {
+    "region": "Tamil Nadu",
+    "rainfall_mm": 299.49,
+    "crop_yield_tonnes": 4.38,
+    "month": "May",
+    "crop": "Rice"
+  },
+  {
+    "region": "Haryana",
+    "rainfall_mm": 252.82,
+    "crop_yield_tonnes": 5.87,
+    "month": "March",
+    "crop": "Barley"
+  },
+  {
+    "region": "Maharashtra",
+    "rainfall_mm": 138.84,
+    "crop_yield_tonnes": 6.65,
+    "month": "September",
+    "crop": "Wheat"
+  },
+  {
+    "region": "Bihar",
+    "rainfall_mm": 176.01,
+    "crop_yield_tonnes": 6.74,
+    "month": "March",
+    "crop": "Maize"
+  },
+  {
+    "region": "Karnataka",
+    "rainfall_mm": 252.65,
+    "crop_yield_tonnes": 2.15,
+    "month": "September",
+    "crop": "Barley"
+  },
+  {
+    "region": "Bihar",
+    "rainfall_mm": 231.18,
+    "crop_yield_tonnes": 6.85,
+    "month": "May",
+    "crop": "Maize"
+  },
+  {
+    "region": "Rajasthan",
+    "rainfall_mm": 93.35,
+    "crop_yield_tonnes": 2.99,
+    "month": "June",
+    "crop": "Wheat"
+  },
+  {
+    "region": "Karnataka",
+    "rainfall_mm": 289.11,
+    "crop_yield_tonnes": 5.96,
+    "month": "August",
+    "crop": "Maize"
+  },
+  {
+    "region": "Punjab",
+    "rainfall_mm": 242.33,
+    "crop_yield_tonnes": 7.2,
+    "month": "May",
+    "crop": "Maize"
+  },
+  {
+    "region": "Bihar",
+    "rainfall_mm": 194.39,
+    "crop_yield_tonnes": 4.53,
+    "month": "April",
+    "crop": "Maize"
+  },
+  {
+    "region": "Gujarat",
+    "rainfall_mm": 165.02,
+    "crop_yield_tonnes": 9.66,
+    "month": "April",
+    "crop": "Soybean"
+  },
+  {
+    "region": "Uttar Pradesh",
+    "rainfall_mm": 135.64,
+    "crop_yield_tonnes": 2.88,
+    "month": "November",
+    "crop": "Rice"
+  },
+  {
+    "region": "Bihar",
+    "rainfall_mm": 284.92,
+    "crop_yield_tonnes": 2.91,
+    "month": "October",
+    "crop": "Barley"
+  },
+  {
+    "region": "Rajasthan",
+    "rainfall_mm": 206.64,
+    "crop_yield_tonnes": 8.24,
+    "month": "March",
+    "crop": "Wheat"
+  },
+  {
+    "region": "Gujarat",
+    "rainfall_mm": 255.17,
+    "crop_yield_tonnes": 2.61,
+    "month": "April",
+    "crop": "Barley"
+  },
+  {
+    "region": "Madhya Pradesh",
+    "rainfall_mm": 130.71,
+    "crop_yield_tonnes": 7.0,
+    "month": "June",
+    "crop": "Maize"
+  },
+  {
+    "region": "Maharashtra",
+    "rainfall_mm": 106.4,
+    "crop_yield_tonnes": 4.95,
+    "month": "February",
+    "crop": "Rice"
+  },
+  {
+    "region": "Karnataka",
+    "rainfall_mm": 283.68,
+    "crop_yield_tonnes": 7.03,
+    "month": "September",
+    "crop": "Wheat"
+  },
+  {
+    "region": "Karnataka",
+    "rainfall_mm": 269.14,
+    "crop_yield_tonnes": 9.06,
+    "month": "September",
+    "crop": "Maize"
+  },
+  {
+    "region": "Rajasthan",
+    "rainfall_mm": 228.6,
+    "crop_yield_tonnes": 3.32,
+    "month": "February",
+    "crop": "Maize"
+  },
+  {
+    "region": "Bihar",
+    "rainfall_mm": 214.6,
+    "crop_yield_tonnes": 7.2,
+    "month": "September",
+    "crop": "Maize"
+  },
+  {
+    "region": "Maharashtra",
+    "rainfall_mm": 267.74,
+    "crop_yield_tonnes": 7.52,
+    "month": "September",
+    "crop": "Wheat"
+  },
+  {
+    "region": "Rajasthan",
+    "rainfall_mm": 188.35,
+    "crop_yield_tonnes": 8.48,
+    "month": "July",
+    "crop": "Wheat"
+  },
+  {
+    "region": "Madhya Pradesh",
+    "rainfall_mm": 144.5,
+    "crop_yield_tonnes": 9.92,
+    "month": "December",
+    "crop": "Barley"
+  },
+  {
+    "region": "Madhya Pradesh",
+    "rainfall_mm": 160.81,
+    "crop_yield_tonnes": 9.66,
+    "month": "November",
+    "crop": "Soybean"
+  },
+  {
+    "region": "Punjab",
+    "rainfall_mm": 67.7,
+    "crop_yield_tonnes": 5.09,
+    "month": "July",
+    "crop": "Maize"
+  },
+  {
+    "region": "Rajasthan",
+    "rainfall_mm": 93.6,
+    "crop_yield_tonnes": 6.45,
+    "month": "November",
+    "crop": "Wheat"
+  },
+  {
+    "region": "Tamil Nadu",
+    "rainfall_mm": 255.73,
+    "crop_yield_tonnes": 7.5,
+    "month": "October",
+    "crop": "Wheat"
+  },
+  {
+    "region": "Tamil Nadu",
+    "rainfall_mm": 52.39,
+    "crop_yield_tonnes": 5.41,
+    "month": "March",
+    "crop": "Soybean"
+  },
+  {
+    "region": "Punjab",
+    "rainfall_mm": 275.22,
+    "crop_yield_tonnes": 5.88,
+    "month": "September",
+    "crop": "Soybean"
+  }
+]
